@@ -9,9 +9,9 @@ V projekte sú použité dáta, viažuce sa k ochoreniu cukrovky u ľudí. Cieľ
 V rámci projektu som pracoval s datasetmi, v ktorých sa nachádzajú demografické údaje pacientov a údaje o rôznych hodnotách cukru a kyslíku v krvi, pomocou ktorých sa predikuje ochorenie cukrovky. Datasety obsahujú okolo 3930 záznamov, čo by malo byť postačujúce pre dosiahnutie cieľov navrhnutého projektu. 
 
 ## Použité techniky:
-•	Prieskumná analýza údajov
-•	Predspracovanie dát
-•	Výber atribútov
-•	Klasifikácia – rozhodovací strom
-•	Optimalizácia hyperparametrov – grid search
-•	Krížová validácia
+- Prieskumná analýza údajov
+-	Predspracovanie dát
+- Výber atribútov
+- Klasifikácia – rozhodovací strom
+- Optimalizácia hyperparametrov – grid search
+- Krížová validácia
